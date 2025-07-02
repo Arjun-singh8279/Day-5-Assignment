@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');Add commentMore actions
+
+body {
+  background-color: #f9f9f9;
+  padding: 30px;
+  font-size: 18px;
+  line-height: 1.6;
+}
+
+h2,
+p {
+  font-family: 'Oswald', sans-serif;
+}
+
+h2 {
+  color: #e11d74;
+}
